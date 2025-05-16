@@ -1,0 +1,17 @@
+.card-header1 img {
+    width: 27%;
+    display: flex;
+    justify-items: space-between;
+    
+  }
+
+  .illu { 
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+  }
+  .picture { 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
